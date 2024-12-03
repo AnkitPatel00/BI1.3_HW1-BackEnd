@@ -1,5 +1,5 @@
 const mongoose = require('mongoose')
-const mongoURI = "mongodb+srv://ankitpatelstockimage:21fNgXnjGeqMeSvE@neog.m2gumtj.mongodb.net/?retryWrites=true&w=majority&appName=neoG"
+const mongoURI = ""
 
 const initializeDatabase = async () =>
 {
